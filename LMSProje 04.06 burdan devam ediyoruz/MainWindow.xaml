@@ -1,0 +1,114 @@
+﻿<Window x:Class="LMSProje.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LMSProje"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl Margin="0,64,0,0">
+            <TabItem Name="tabRegister" Header="Register">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Library Management System Membership Panel" HorizontalAlignment="Left" Margin="226,21,0,0" VerticalAlignment="Top" Width="266"/>
+                    <Label Content="First Name" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" Width="75"/>
+                    <TextBox x:Name="txtFirstName" HorizontalAlignment="Left" Margin="101,69,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155"/>
+                    <Label Content="Last name" HorizontalAlignment="Left" Margin="10,111,0,0" VerticalAlignment="Top" Width="75"/>
+                    <TextBox x:Name="txtLastName" HorizontalAlignment="Left" Margin="101,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155"/>
+                    <Label Content="Email" HorizontalAlignment="Left" Margin="10,166,0,0" VerticalAlignment="Top" Width="75"/>
+                    <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="101,170,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155"/>
+                    <Label  Content="Password" HorizontalAlignment="Left" Margin="322,69,0,0" VerticalAlignment="Top" Width="75"/>
+                    <PasswordBox x:Name="txtPw1" HorizontalAlignment="Left" Margin="437,73,0,0"  VerticalAlignment="Top" Width="120"/>
+                    <Label Content="VerifyPassword" HorizontalAlignment="Left" Margin="297,124,0,0" VerticalAlignment="Top" Width="100"/>
+                    <PasswordBox x:Name="txtPw2" HorizontalAlignment="Left" Margin="437,132,0,0"  VerticalAlignment="Top" Width="120"/>
+                    <ComboBox Name="cmbBoxUserRank" HorizontalAlignment="Left" Margin="240,242,0,0" VerticalAlignment="Top" Width="143" Height="27"/>
+                    <Label Content="Please Choose Your Level" HorizontalAlignment="Left" Margin="29,238,0,0" VerticalAlignment="Top" Width="175"/>
+                    <Button Name="btnRegister" Click="btnRegister_Click" Content="Register" HorizontalAlignment="Left" Margin="509,228,0,0" VerticalAlignment="Top" Width="87" Height="41"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Name="tabLogin" Header="Login">
+                <Grid Background="#FFE5E5E5">
+
+
+                    <Label Content="LOGİN EMAİL" HorizontalAlignment="Left" Margin="19,58,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.053,0.08" Width="90" Height="34" Grid.ColumnSpan="2"/>
+                    <TextBox x:Name="txtLoginEmail" HorizontalAlignment="Left" Margin="115,66,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="153" Grid.Column="1"/>
+                    <Label Content="LOGİN PASWORD" HorizontalAlignment="Left" Margin="19,147,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.053,0.08" Width="109" Height="34" Grid.ColumnSpan="2"/>
+                    <PasswordBox x:Name="txtLoginPw" HorizontalAlignment="Left" Margin="124,153,0,0" VerticalAlignment="Top" Width="153" Grid.Column="1"/>
+                    <Button x:Name="btnLogIn" Click="btnLogIn_Click" Content="LOGİN" HorizontalAlignment="Left" Margin="493,37,0,0" VerticalAlignment="Top" Height="49" Width="90" Grid.Column="1"/>
+                </Grid>
+            </TabItem>
+            <TabItem Name="tabBooks" Header="BooksList">
+                <Grid Background="#FFE5E5E5">
+
+                    <DataGrid x:Name="dataGridBooks" Margin="0,124,0,0"/>
+                    <Button x:Name="btnRefreshBook" Click="btnRefreshBook_Click" Content="Refresh Book List" HorizontalAlignment="Left" Margin="634,16,0,0" VerticalAlignment="Top" Width="101" Height="29"/>
+                    <TextBox x:Name="txtBookName" HorizontalAlignment="Left" Margin="134,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="90" TextChanged="TextBox_TextChanged"/>
+                    <Label Content="Search Book Name:" HorizontalAlignment="Left" Margin="14,5,0,0" VerticalAlignment="Top" Width="113"/>
+                    <TextBox x:Name="txtAuthorName" HorizontalAlignment="Left" Margin="140,39,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="90" TextChanged="TextBox_TextChanged"/>
+                    <Label Content="Search Author Name:" HorizontalAlignment="Left" Margin="14,35,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="txtAuthorLastName" HorizontalAlignment="Left" Margin="163,69,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="90" TextChanged="TextBox_TextChanged"/>
+                    <Label Content="Search Author Last Name" HorizontalAlignment="Left" Margin="14,61,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="txtCategory" HorizontalAlignment="Left" Margin="150,99,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="90" TextChanged="TextBox_TextChanged"/>
+                    <Label Content="Search Category type:" HorizontalAlignment="Left" Margin="14,94,0,0" VerticalAlignment="Top"/>
+                    <Button x:Name="btnRecordsAdd" Content="ADD records" HorizontalAlignment="Left" Margin="634,66,0,0" VerticalAlignment="Top" Width="101" Height="32" Click="btnRecordsAdd_Click"/>
+                    <ComboBox  Name="cmbSortignBooks" HorizontalAlignment="Left" Margin="397,12,0,0" VerticalAlignment="Top" Width="205" Height="36" SelectionChanged="cmbSortignBooks_SelectionChanged"/>
+                    <Label Content="Book Shorting: " HorizontalAlignment="Left" Margin="303,18,0,0" VerticalAlignment="Top" Width="89"/>
+                </Grid>
+            </TabItem>
+            <TabItem Name="tabrecordsBook" Header="RecordsList">
+                <Grid Background="#FFE5E5E5">
+
+                    <Button Click="btnRecordsList_Click" x:Name="btnRecordsList" Content="BOOKS ON ME" HorizontalAlignment="Left" Margin="23,20,0,0" VerticalAlignment="Top" Height="42" Width="121" Grid.ColumnSpan="2"/>
+                    <DataGrid x:Name="dataGridListRecords" Height="265" VerticalAlignment="Top" Margin="0,77,0,0" Grid.ColumnSpan="2"/>
+                    <Button Click="btnRunBackTo_Click" x:Name="btnRunBackTo" Content="run back to" HorizontalAlignment="Left" Margin="197,20,0,0" VerticalAlignment="Top" Width="88" Height="43"/>
+                </Grid>
+            </TabItem>
+            <TabItem Name="tabADminregister" Header="AdminRegister">
+                <Grid Background="#FFE5E5E5">
+                    <Button Click="btnAdminRehister_Click" x:Name="btnAdminRehister" Content="adminRegister" HorizontalAlignment="Left" Margin="632,260,0,0" VerticalAlignment="Top" Width="112" Height="37"/>
+                    <Label Content="FirstName" HorizontalAlignment="Left" Margin="27,21,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="txtFirstNameadmin" HorizontalAlignment="Left" Margin="123,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="LastName" HorizontalAlignment="Left" Margin="27,93,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="txtLastNameadmin" HorizontalAlignment="Left" Margin="123,101,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Email" HorizontalAlignment="Left" Margin="28,0,0,0" VerticalAlignment="Center"/>
+                    <TextBox x:Name="txtEmailAdmin" HorizontalAlignment="Left" Margin="123,166,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="pasword" HorizontalAlignment="Left" Margin="485,26,0,0" VerticalAlignment="Top"/>
+                    <PasswordBox x:Name="txtPW1aDMİN" HorizontalAlignment="Left" Margin="581,34,0,0" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="VerifyPassword" HorizontalAlignment="Left" Margin="468,122,0,0" VerticalAlignment="Top"/>
+                    <PasswordBox x:Name="txtpW2Admin" HorizontalAlignment="Left" Margin="581,126,0,0" VerticalAlignment="Top" Width="120"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Name="tabAdminLogi" Header="AdminLogin">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Login Email" HorizontalAlignment="Left" Margin="36,46,0,0" VerticalAlignment="Top" Width="128"/>
+                    <TextBox x:Name="txtLoginEmailAdmin"  HorizontalAlignment="Left" Margin="169,50,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="168"/>
+                    <Label Content="Login PW" HorizontalAlignment="Left" Margin="36,135,0,0" VerticalAlignment="Top" Width="128"/>
+                    <PasswordBox x:Name="txtLoginPWAdmin"  HorizontalAlignment="Left" Margin="169,139,0,0" VerticalAlignment="Top" Width="168"/>
+                    <Button Click="btnAdminLogin_Click" x:Name="btnAdminLogin" Content="login ADMIN" HorizontalAlignment="Left" Margin="565,93,0,0" VerticalAlignment="Top" Width="131" Height="55"/>
+                </Grid>
+            </TabItem>
+            <TabItem Name="tamAdminOparetin" Header="adminOperation">
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid x:Name="dataGridRecordsListBookAdmin" Margin="0,114,0,0"/>
+                    <Button Click="btnRecordListBookAdmin_Click" x:Name="btnRecordListBookAdmin" Content="List OF AL Records" HorizontalAlignment="Left" Margin="10,16,0,0" VerticalAlignment="Top" Width="118" Height="35"/>
+                    <Button Click="btnListAllBooks_Click" x:Name="btnListAllBooks" Content="LİST OF ALL BOOKS" HorizontalAlignment="Left" Margin="12,63,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.568,0.69" Width="114" Height="35"/>
+                    <Button Click="btnApproval_Click" x:Name="btnApproval" Content="Panding approval(onay)" HorizontalAlignment="Left" Margin="144,16,0,0" VerticalAlignment="Top" Width="166" Height="35"/>
+                    <Button Click="btnLimits_Click" x:Name="btnLimits" Content=" limits change of books " HorizontalAlignment="Left" Margin="609,8,0,0" VerticalAlignment="Top" Width="131" Height="39"/>
+                    <Label Content="Kitap Sınırını Belirle:" HorizontalAlignment="Left" Margin="351,21,0,0" VerticalAlignment="Top" Width="122"/>
+                    <TextBox x:Name="txtLimitBook" HorizontalAlignment="Left" Margin="473,27,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Kitap geri idae sınırı Belirle:" HorizontalAlignment="Left" Margin="303,68,0,0" VerticalAlignment="Top" Width="154"/>
+                    <TextBox x:Name="txtReturDateSeting" HorizontalAlignment="Left" Margin="473,72,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+                    <Button Click="btnReturnDateSeting_Click" x:Name="btnReturnDateSeting" Content=" Retur Date change of books " HorizontalAlignment="Left" Margin="609,65,0,0" VerticalAlignment="Top" Width="164" Height="39"/>
+                    <Button Click="Button_Click" Content="Approved the Book " HorizontalAlignment="Left" Margin="144,63,0,0" VerticalAlignment="Top" Width="143" Height="35"/> 
+                </Grid>
+
+            </TabItem>
+        </TabControl>
+        <Button Click="btnLogOut_Click" Name="btnLogout" Content="LOG OUT"  HorizontalAlignment="Left" Margin="613,19,0,0" VerticalAlignment="Top" Width="91" Height="29" RenderTransformOrigin="0.099,0.301"/>
+        <Label Name="lblLoginStatus" Content="" HorizontalAlignment="Left" Margin="163,19,0,0" VerticalAlignment="Top" Width="356"/>
+
+
+    </Grid>
+</Window>

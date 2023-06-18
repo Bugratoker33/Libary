@@ -1,0 +1,320 @@
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\LMSProje.exe
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\LMSProje.deps.json
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\LMSProje.runtimeconfig.json
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\LMSProje.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\LMSProje.pdb
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\LMSProje.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\LMSProje_MarkupCompile.cache
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\LMSProje_MarkupCompile.lref
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\LMSProje.g.resources
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\LMSProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\LMSProje.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\LMSProje.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\LMSProje.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\LMSProje.csproj.CopyComplete
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\LMSProje.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\refint\LMSProje.dll
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\LMSProje.pdb
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\LMSProje.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\furkan gözü kara\LMSProje\obj\Debug\net7.0-windows\ref\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\LMSProje.exe
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\LMSProje.deps.json
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\LMSProje.runtimeconfig.json
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\LMSProje.pdb
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\LMSProje.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\LMSProje_MarkupCompile.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\LMSProje_MarkupCompile.lref
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\LMSProje.g.resources
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\LMSProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\LMSProje.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\LMSProje.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\LMSProje.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\LMSProje.csproj.CopyComplete
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\refint\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\LMSProje.pdb
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\LMSProje.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje\obj\Debug\net7.0-windows\ref\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\LMSProje.exe
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\LMSProje.deps.json
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\LMSProje.runtimeconfig.json
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\LMSProje.pdb
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje_MarkupCompile.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje_MarkupCompile.lref
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.g.resources
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.csproj.CopyComplete
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\refint\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.pdb
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 30.05 burdan devam ediyoruz\obj\Debug\net7.0-windows\ref\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\LMSProje.exe
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\LMSProje.deps.json
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\LMSProje.runtimeconfig.json
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\LMSProje.pdb
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\LMSProje.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\LMSProje_MarkupCompile.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\LMSProje_MarkupCompile.lref
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\LMSProje.g.resources
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\LMSProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\LMSProje.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\LMSProje.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\LMSProje.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\LMSProje.csproj.CopyComplete
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\refint\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\LMSProje.pdb
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\LMSProje.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 01.06 burdan devam ediyoruz - Kopya\obj\Debug\net7.0-windows\ref\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\LMSProje.exe
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\LMSProje.deps.json
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\LMSProje.runtimeconfig.json
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\LMSProje.pdb
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.csproj.AssemblyReference.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje_MarkupCompile.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje_MarkupCompile.lref
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.g.resources
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.AssemblyInfoInputs.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.AssemblyInfo.cs
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.csproj.CopyComplete
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\refint\LMSProje.dll
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.pdb
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\LMSProje.genruntimeconfig.cache
+C:\Users\Buğra\Desktop\LMS Proje ödevi\LMSProje 04.06 burdan devam ediyoruz\obj\Debug\net7.0-windows\ref\LMSProje.dll

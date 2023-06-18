@@ -1,0 +1,81 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "LMSContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "LMSProje",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[tblAdmin]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblAdminApporoval]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblAuthor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblBooks]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblCategory]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TblDateSeting]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TblLimits]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblRecords]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TblSeting]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblUser]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[tblUserTypes]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "desktop-fcruı1s.LMS.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
